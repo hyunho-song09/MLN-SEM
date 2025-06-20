@@ -32,5 +32,3 @@ main()
 
 
 ---
-
-필요하다면 `functions.R`, `config.R`, `results_summary.csv` 등으로 스크립트를 더 나누는 것도 가능합니다. 원하시면 디렉토리화 및 분할 작업도 도와드릴게요.
